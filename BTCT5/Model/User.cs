@@ -8,5 +8,6 @@ namespace BTCT5.Model
 {
     internal class User
     {
+        public int ID { get; set; }
     }
 }
