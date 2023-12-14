@@ -9,5 +9,6 @@ namespace BTCT5.Model
     internal class User
     {
         public int ID { get; set; }
+        public int MSSV { get; set; }
     }
 }
